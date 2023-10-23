@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "../wads/prototype_1_3.wad;C:/Users/16308/Downloads/quakedev/quakedev/quake-leveldesign-starterkit-1.17.0/wads/prototype_1_3.wad"
+"wad" "../wads/prototype_1_3.wad;C:/Users/16308/Downloads/quakedev/quakedev/quake-leveldesign-starterkit-1.17.0/wads/prototype_1_3.wad;C:/Users/16308/Downloads/RuneResized.wad/RuneResized.wad;C:/Users/16308/Downloads/wizard/WIZARD.WAD;C:/Users/16308/Downloads/undying/undying.wad"
 // brush 0
 {
 ( 1760 -320 0 ) ( 1760 -319 0 ) ( 1760 -320 1 ) 128_cyan_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
