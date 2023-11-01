@@ -6417,7 +6417,7 @@
 // entity 158
 {
 "classname" "light"
-"origin" "5768 -2440 344"
+"origin" "5736 -2440 408"
 "wait" "1"
 "delay" "2"
 }
@@ -6432,7 +6432,7 @@
 // entity 160
 {
 "classname" "light_torch_small_walltorch"
-"origin" "4100 372 300"
+"origin" "4100 516 300"
 "wait" "2"
 "delay" "1"
 }
